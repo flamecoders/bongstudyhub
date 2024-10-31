@@ -1,0 +1,11 @@
+.company-logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    overflow: hidden;
+}
+
+.company-logo img {
+    height: 100%;
+    width: 100%;
+}
